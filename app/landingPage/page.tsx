@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center text-center min-h-screen p-6 bg-[#FFADAD] text-[#3D3D3D]">
       <h1 className="max-w-2xl text-xl font-medium">
-        I'm trying to make a cute website for you just to tell you that I do care about you.
+        I&apos;m trying to make a cute website for you just to tell you that I do care about you.
         I just felt like we were going so fast, and my emotions were driving me.
         I needed to take some time for myself to understand what is best for me.
         <br />
         <br />
-        I'm happy to say that I see you as a nice friend, and I'm happy to continue 
+        I&apos;m happy to say that I see you as a nice friend, and I&apos;m happy to continue 
         what is between us. So if you agree to continue this, please click the button below. 💖
       </h1>
 
